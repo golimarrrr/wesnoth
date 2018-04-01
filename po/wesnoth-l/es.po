@@ -1833,7 +1833,7 @@ msgid ""
 "the army of the usurper. Strike fast, strike silently... and leave no one "
 "alive."
 msgstr ""
-"Cuando hallamos terminado, nadie temerá tanto los caminos abiertos y los "
+"Cuando hayamos terminado, nadie temerá tanto los caminos abiertos y los "
 "cielos nocturnos como el ejército de la usurpadora. Ataquen rápido, ataquen "
 "en silencio... y no dejen a nadie con vida."
 
